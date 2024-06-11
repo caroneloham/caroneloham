@@ -26,24 +26,24 @@ Je suis un Administrateur Réseaux et Analyste en Sécurité Informatique passio
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 #### Outils de sécurité :
-![Nmap](https://img.shields.io/badge/Nmap-0A0A0A?style=for-the-badge&logo=nmap&logoColor=white)&nbsp;
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)&nbsp;
-![Metasploit](https://img.shields.io/badge/Metasploit-049C9C?style=for-the-badge&logo=metasploit&logoColor=white)&nbsp;
-![Hydra](https://img.shields.io/badge/Hydra-4A4A4A?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![Exploit-DB](https://img.shields.io/badge/Exploit_DB-000000?style=for-the-badge&logo=exploit-db&logoColor=white)&nbsp;
-![Netmiko](https://img.shields.io/badge/Netmiko-000000?style=for-the-badge&logo=netmiko&logoColor=white)&nbsp;
-![Ettercap](https://img.shields.io/badge/Ettercap-000000?style=for-the-badge&logo=ettercap&logoColor=white)&nbsp;
-![Shodan](https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=white)
+- [Nmap](https://nmap.org) ![Nmap](https://img.shields.io/badge/Nmap-0A0A0A?style=for-the-badge&logo=nmap&logoColor=white)&nbsp;
+- [Wireshark](https://www.wireshark.org) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)&nbsp;
+- [Metasploit](https://www.metasploit.com) ![Metasploit](https://img.shields.io/badge/Metasploit-049C9C?style=for-the-badge&logo=metasploit&logoColor=white)&nbsp;
+- [Hydra](https://github.com/vanhauser-thc/thc-hydra) ![Hydra](https://img.shields.io/badge/Hydra-4A4A4A?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+- [Gobuster](https://github.com/OJ/gobuster) ![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+- [Exploit-DB](https://www.exploit-db.com) ![Exploit-DB](https://img.shields.io/badge/Exploit_DB-000000?style=for-the-badge&logo=exploit-db&logoColor=white)&nbsp;
+- [Netmiko](https://github.com/ktbyers/netmiko) ![Netmiko](https://img.shields.io/badge/Netmiko-000000?style=for-the-badge&logo=netmiko&logoColor=white)&nbsp;
+- [Ettercap](https://www.ettercap-project.org) ![Ettercap](https://img.shields.io/badge/Ettercap-000000?style=for-the-badge&logo=ettercap&logoColor=white)&nbsp;
+- [Shodan](https://www.shodan.io) ![Shodan](https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=white)
 
 #### Administration réseau :
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)&nbsp;
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=linux&logoColor=white)
+- [Cisco](https://www.cisco.com) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)&nbsp;
+- [Kali Linux](https://www.kali.org) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=linux&logoColor=white)
 
 #### Systèmes d'exploitation :
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+- [Ubuntu](https://ubuntu.com) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+- [Kali Linux](https://www.kali.org) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
+- [Arch Linux](https://archlinux.org) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 #### Base de données :
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -68,4 +68,10 @@ Je suis un Administrateur Réseaux et Analyste en Sécurité Informatique passio
 ## Me contacter :
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eloham-caron/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?styl
+  <a href="https://www.linkedin.com/in/eloham-caron/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:eloham.caron@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/eloham-caron"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+| <a href="https://github.com/eloham-caron"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eloham-caron&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Statistiques GitHub d'Eloham" /></a> | <a href="https://github.com/eloham-caron"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloham-caron&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
