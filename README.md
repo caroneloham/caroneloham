@@ -62,6 +62,7 @@ Je suis un Administrateur Réseaux et Analyste en Sécurité Informatique passio
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
 ## Projets
 
 ### Pentest et Analyse de Conformité RGPD
@@ -75,8 +76,8 @@ Je suis un Administrateur Réseaux et Analyste en Sécurité Informatique passio
 <p align="center">
   <a href="https://www.linkedin.com/in/eloham-caron/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:eloham.caron@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/eloham-caron"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/caroneloham"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-| <a href="https://github.com/eloham-caron"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eloham-caron&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Statistiques GitHub d'Eloham" /></a> | <a href="https://github.com/eloham-caron"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloham-caron&layout=compact&theme=radical&hide_border=true" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=caroneloham&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=caroneloham&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Statistiques GitHub d'Eloham" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=caroneloham&layout=compact&theme=radical&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroneloham&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
