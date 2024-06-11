@@ -34,7 +34,9 @@ Je suis un Administrateur Réseaux et Analyste en Sécurité Informatique passio
 [![Exploit-DB](https://img.shields.io/badge/Exploit_DB-000000?style=for-the-badge&logo=exploit-db&logoColor=white)](https://www.exploit-db.com)&nbsp;
 [![Netmiko](https://img.shields.io/badge/Netmiko-000000?style=for-the-badge&logo=netmiko&logoColor=white)](https://github.com/ktbyers/netmiko)&nbsp;
 [![Ettercap](https://img.shields.io/badge/Ettercap-000000?style=for-the-badge&logo=ettercap&logoColor=white)](https://www.ettercap-project.org)&nbsp;
-[![Shodan](https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=white)](https://www.shodan.io)
+[![Shodan](https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=white)](https://www.shodan.io)&nbsp;
+[![OpenVAS](https://img.shields.io/badge/OpenVAS-008000?style=for-the-badge&logo=openvas&logoColor=white)](https://www.openvas.org)&nbsp;
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
 
 #### Administration réseau :
 [![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com)&nbsp;
@@ -50,8 +52,11 @@ Je suis un Administrateur Réseaux et Analyste en Sécurité Informatique passio
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Outils et technologies :
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)&nbsp;
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com)&nbsp;
+[![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io)&nbsp;
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)&nbsp;
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
 
 #### Environnements de développement :
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
