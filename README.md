@@ -64,12 +64,14 @@ Je suis un Administrateur Réseaux et Analyste en Sécurité Informatique passio
 
 
 ## Projets
+### Sécurité Informatique Auvergne-Rhône-Alpes
+*Description : Création du groupe LinkedIn "Sécurité Informatique Auvergne-Rhône-Alpes" pour regrouper les professionnels et les passionnés de cybersécurité dans la région.* *Détection et gestion de failles de sécurité dans les établissements publics scolaires de la région Auvergne-Rhône-Alpes.*
 
-### Pentest et Analyse de Conformité RGPD
-*Identification et gestion des vulnérabilités au sein du système d'information.*
+### CTF TryHackMe
+*Description : Participation à plusieurs Capture The Flag (CTF) sur la plateforme TryHackMe, notamment les challenges avancés comme "Mr. Robot". Réalisation régulière de défis pour améliorer les compétences en cybersécurité.*
 
-### Audit de Sécurité des Imprimantes KOESIO
-*Utilisation de la méthode PTES pour évaluer la sécurité des imprimantes et identifier les vulnérabilités CUPS.*
+### Réseaux Virtuels sur Cisco Packet Tracer
+*Description : Création et configuration de réseaux virtuels sur Cisco Packet Tracer. Mise en place de réseaux complets avec routage, commutation et sécurité pour simuler des environnements réels et tester des configurations réseau.*
 
 ## Me contacter :
 
