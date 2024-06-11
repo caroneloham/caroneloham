@@ -26,24 +26,24 @@ Je suis un Administrateur Réseaux et Analyste en Sécurité Informatique passio
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 #### Outils de sécurité :
-- [Nmap](https://nmap.org) ![Nmap](https://img.shields.io/badge/Nmap-0A0A0A?style=for-the-badge&logo=nmap&logoColor=white)&nbsp;
-- [Wireshark](https://www.wireshark.org) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)&nbsp;
-- [Metasploit](https://www.metasploit.com) ![Metasploit](https://img.shields.io/badge/Metasploit-049C9C?style=for-the-badge&logo=metasploit&logoColor=white)&nbsp;
-- [Hydra](https://github.com/vanhauser-thc/thc-hydra) ![Hydra](https://img.shields.io/badge/Hydra-4A4A4A?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-- [Gobuster](https://github.com/OJ/gobuster) ![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-- [Exploit-DB](https://www.exploit-db.com) ![Exploit-DB](https://img.shields.io/badge/Exploit_DB-000000?style=for-the-badge&logo=exploit-db&logoColor=white)&nbsp;
-- [Netmiko](https://github.com/ktbyers/netmiko) ![Netmiko](https://img.shields.io/badge/Netmiko-000000?style=for-the-badge&logo=netmiko&logoColor=white)&nbsp;
-- [Ettercap](https://www.ettercap-project.org) ![Ettercap](https://img.shields.io/badge/Ettercap-000000?style=for-the-badge&logo=ettercap&logoColor=white)&nbsp;
-- [Shodan](https://www.shodan.io) ![Shodan](https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=white)
+[![Nmap](https://img.shields.io/badge/Nmap-0A0A0A?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)&nbsp;
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)&nbsp;
+[![Metasploit](https://img.shields.io/badge/Metasploit-049C9C?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com)&nbsp;
+[![Hydra](https://img.shields.io/badge/Hydra-4A4A4A?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/vanhauser-thc/thc-hydra)&nbsp;
+[![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/OJ/gobuster)&nbsp;
+[![Exploit-DB](https://img.shields.io/badge/Exploit_DB-000000?style=for-the-badge&logo=exploit-db&logoColor=white)](https://www.exploit-db.com)&nbsp;
+[![Netmiko](https://img.shields.io/badge/Netmiko-000000?style=for-the-badge&logo=netmiko&logoColor=white)](https://github.com/ktbyers/netmiko)&nbsp;
+[![Ettercap](https://img.shields.io/badge/Ettercap-000000?style=for-the-badge&logo=ettercap&logoColor=white)](https://www.ettercap-project.org)&nbsp;
+[![Shodan](https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=white)](https://www.shodan.io)
 
 #### Administration réseau :
-- [Cisco](https://www.cisco.com) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)&nbsp;
-- [Kali Linux](https://www.kali.org) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=linux&logoColor=white)
+[![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com)&nbsp;
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=linux&logoColor=white)](https://www.kali.org)
 
 #### Systèmes d'exploitation :
-- [Ubuntu](https://ubuntu.com) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-- [Kali Linux](https://www.kali.org) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
-- [Arch Linux](https://archlinux.org) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)&nbsp;
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=linux&logoColor=white)](https://www.kali.org)&nbsp;
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
 
 #### Base de données :
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
